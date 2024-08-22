@@ -1,0 +1,22 @@
+body{  background-color: aqua;
+
+    .pie{
+        position: fixed;
+        right:0 ;
+        top: 0;
+      }
+      
+      #text {
+        position: absolute;
+        left: 100px;
+        top: 100px;
+      }
+}       
+
+
+h1{color: bisque;
+
+}
+p1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
